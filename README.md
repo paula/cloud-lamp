@@ -7,4 +7,4 @@ It started with a dark room. Our co-Founder Kristine was sitting in the dark one
 
 The code is essentially the DemoReel100 Example Code from the FastLED Library but edited to only use the Cloud Color Palette. It is also modified based on the number of LEDs we used and the corresponding data pin.
 
-This project was created in LASA's Engineering Design class. The project page can be found [here](cloudlamps.weebly.com) for more information.
+This project was created in LASA's [Engineering Design](http://www.stempirecentral.com/engineering-design1.html) class. The project page can be found [here](http://cloudlamps.weebly.com) for more information.
